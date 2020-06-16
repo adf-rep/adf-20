@@ -42,7 +42,7 @@ The source code of ADF and experiments for: *Adaptive Deep Forest for Online Lea
 
 - Set paths in ***src/eval/experiment/ExperimentStream.java***.
 
-### Test
+### Testing
 All unit tests can be found in *tests*.
 
 ### Evaluation
