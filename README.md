@@ -1,5 +1,5 @@
 # ADF
-The source code of ADF and experiments for: *Adaptive Deep Forest for Online Learning from Drifting Data Streams* (ICDM 2020 submission).
+The source code of ADF and experiments for: *Adaptive Deep Forest for Online Learning from Drifting Data Streams*.
 
 ### Requirements
 
